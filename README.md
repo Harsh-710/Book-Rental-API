@@ -53,6 +53,9 @@ npm start
 
 ## **API Endpoints**  
 
+### **POSTMAN DOCUMENTATION**
+https://documenter.getpostman.com/view/29626287/2sAYkKJxjC 
+
 ### **1. Get All Stored Books**  
 #### **GET** `/books`  
 Returns the list of books stored in the database.  
