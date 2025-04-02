@@ -13,7 +13,7 @@ This is a simple backend service that:
 - **Database:** MongoDB with Mongoose ORM  
 - **Scheduling:** node-cron  
 - **External API:** Open Library API  
-- **Testing (optional):** Jest, Supertest  
+- **Testing:** Jest, Supertest  
 
 ---
 
